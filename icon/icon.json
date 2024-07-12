@@ -1,5 +1,5 @@
 {
-    "name": "Icon",
+    "name": "Ayaka自用",
     "icons": [
      { "name": "Apple", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/Apple.png"},
      { "name": "CN_1", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/CN_1.png"},
@@ -11,6 +11,7 @@
      { "name": "Lyrdbird", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/Lyrdbird.png"},
      { "name": "meimeiyun", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/meimeiyun.png"},
      { "name": "Microsoft", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/Microsoft.png"},
+     { "name": "YouTube", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/YouTube.png"},
      { "name": "Netflix", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/Netflix.png"},
      { "name": "OneDrive", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/OneDrive.png"},
      { "name": "OpenAI", "url": "https://raw.githubusercontent.com/AyakaNya/Surge/main/icon/OpenAI.png"},
